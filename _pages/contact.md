@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Office**
+
 Dr Ryan Brock,
 Biffen 111,
 Department of Crop Genetics,
@@ -18,7 +19,9 @@ Norwich, UK
 NR4 7UH
 
 **Email**
+
 ryan.brock@jic.ac.uk
 
 **Phone**
+
 01603 450 2803 
