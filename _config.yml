@@ -21,7 +21,7 @@ repository               : "RyanEBrock/RyanEBrock.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "headshot.jpg"
   name             : "Dr Ryan E Brock"
   pronouns         : "he/him"  
   bio              : "Postdoctoral Researcher"
