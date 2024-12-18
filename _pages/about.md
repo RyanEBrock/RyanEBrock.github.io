@@ -13,5 +13,5 @@ Currently, I work as a Postdoctoral Researcher in the [Wells group](https://www.
 
 Previously, I completed my PhD in the [Bourke group](https://andrewbourkeresearch.com) at the University of East Anglia. My PhD research focused on the behavioural ecology and population genetics of the Tree Bumblebee. Prior to this, I completed an MSc (by research) in the [Sumner group](http://www.sumnerlab.co.uk/) at the University of Bristol and and a BSc in Biological Sciences at the University of East Anglia.
 
-Outside of work, I enjoy cycling, hiking, and birdwatching, and am a season ticket holder for Ipswich Town FC.
+Outside of work, I enjoy cycling, hiking, and birdwatching, and am an Ipswich Town FC season ticket holder.
 
