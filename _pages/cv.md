@@ -11,7 +11,7 @@ redirect_from:
 
 Please contact me for a full CV.
 
-**Education**
+### Education
 
 * 01/2017 - 06/2021: PhD Biological Sciences (NERC EnvEast Doctoral Training Partnership), University of East Anglia, Norwich, UK
 	* Thesis title: [Sociogenetics and behavioural ecology of the Tree Bumblebee (*Bombus hypnorum*)](https://ueaeprints.uea.ac.uk/id/eprint/84514/).
@@ -23,7 +23,7 @@ Please contact me for a full CV.
 
 * 09/2012 - 06/2015: BSc (Hons) Biological Sciences, University of East Anglia, Norwich, UK
 
-**Employment**
+### Employment
 
 * 04/2024 - Present: Postdoctoral Researcher, John Innes Centre, Norwich, UK
 	* Understanding *Brassica*-Cabbage Stem Flea Beetle  (*Psylliodes chrysocephala*) interactions. PI: [Dr Rachel Wells](https://www.jic.ac.uk/people/rachel-wells/).
@@ -32,7 +32,7 @@ Please contact me for a full CV.
 	* Breeding resistance to adult and larval herbivory by the Cabbage Stem Flea Beetle (*Psylliodes chrysocephala*). PI: [Dr Rachel Wells](https://www.jic.ac.uk/people/rachel-wells/).
 
 * 12/2020 - 11/2021: Research Technician, University of East Anglia, Norwich, UK
-	* Climate impacts on insect fitness. PI: Professor Matt Gage.
+	* Climate impacts on insect fitness. PI: Professor Matthew Gage.
 
 * 10/2017 - 11/2021: Associate Tutor, University of East Anglia, Norwich, UK
 	* Seminar- and laboratory-based teaching in evolution, molecular biology, ecology, and statistics.
@@ -40,7 +40,7 @@ Please contact me for a full CV.
 * 10/2015 - 05/2016: Associate Tutor, University of Bristol, Bristol, UK
 	* Laboratory-based teaching in molecular biology and parasitology.
 
-**Research interests**
+### Research interests
 
 * Insect behavioural ecology
 * Insect population genetics and genomics
