@@ -23,6 +23,6 @@ The student will gain experience in:
 
 The studentship will take place during the summer of 2025 (ideal start date: 16th June 2025) and is open to students who are registered at a UK university and in the middle years (i.e. 2/3, 2/4 or 3/4) of their degree. Final year undergraduates intending to continue to study for a Master’s or PhD may also be considered. Successful students will receive a stipend of £400 per week.
  
-Interested students can apply here or contact Dr Ryan Brock (Ryan.Brock@jic.ac.uk) or Dr Rachel Wells (Rachel.Wells@jic.ac.uk) for more information about the project.
+Interested students can apply [here](https://my.rsb.org.uk/services.php?section=grants&grantid=117) or contact Dr Ryan Brock (Ryan.Brock@jic.ac.uk) or Dr Rachel Wells (Rachel.Wells@jic.ac.uk) for more information about the project.
  
 **Application deadline: 23:59 on Friday 25th April 2025.**
