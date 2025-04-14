@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Cabbage stem flea beetle larvae on oilseed rape.](https://github.com/RyanEBrock/RyanEBrock.github.io/tree/master/images/CSFB-larvae1.jpg)
+![Cabbage stem flea beetle larvae on oilseed rape.](images/CSFB-larvae1.jpg)
 
 I am an evolutionary ecologist and entomologist with research interests in plant-insect interactions, behavioural ecology, population genetics/genomics, and climate effects on insect biology.
 
