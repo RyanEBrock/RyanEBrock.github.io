@@ -13,7 +13,7 @@ author_profile: true
 
 We are currently advertising a **funded** 10-week undergraduate summer studentship at the [John Innes Centre](https://www.jic.ac.uk/), through the Royal Society of Biology’s [Plant Health Undergraduate Studentship](https://www.rsb.org.uk/get-involved/grants/plant-health-ug-studentships) programme. 
  
-The student will investigate crop-pest interactions across a diverse panel of Oilseed Rape (*Brassica napus*) genotypes, specifically focussing on resistance/susceptibility to both Cabbage Stem Flea Beetle (*Psylliodes chysocephala*) and the Green Peach Aphid (*Myzus persicae*).
+The student will investigate crop-pest interactions across a diverse panel of Oilseed Rape (*Brassica napus*) genotypes, specifically focussing on resistance/susceptibility to both Cabbage Stem Flea Beetle (*Psylliodes chrysocephala*) and the Green Peach Aphid (*Myzus persicae*).
 
 The student will gain experience in:
 * Plant and insect husbandry
